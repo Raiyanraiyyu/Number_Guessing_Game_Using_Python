@@ -1,7 +1,11 @@
-# Number_Guessing_Game_Using_Python
+Number Guessing Game
+This is a simple number guessing game where the player has to guess a randomly generated number.
 
-Number guessing game using python
+Prerequisites
+To run this game, you'll need to have Python installed on your computer.
 
->Random number generator stored in session
->User-submitted number is compared to number stored in session
->Display if guess is too high or too low
+Instructions
+Open your preferred Python development environment.
+Create a new Python file and copy the code provided below into the file.
+Save the file with a .py extension, for example, number_guessing_game.py.
+Run the Python script, and the game will start.
