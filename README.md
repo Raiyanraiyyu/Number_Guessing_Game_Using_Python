@@ -2,6 +2,6 @@
 
 Number guessing game using python
 
-Random number generator stored in session
-User-submitted number is compared to number stored in session
-Display if guess is too high or too low
+>Random number generator stored in session
+>User-submitted number is compared to number stored in session
+>Display if guess is too high or too low
